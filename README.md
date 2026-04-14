@@ -14,7 +14,7 @@ refurbished electronics operating across Europe and North America.
 |--------|-------|
 | **Dataset** | 60 Sellers, 600 Orders, Jan 2023 – Dec 2025 |
 | **Tools** | PostgreSQL, Excel, Power BI, PowerPoint |
-| **Analyst** | Tushar Manjunath |
+| **Analyst** | Tushar Kumar |
 
 ---
 
